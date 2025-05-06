@@ -110,12 +110,4 @@ The dataset used in this project is `housing.csv`, which contains various featur
 - Feature engineering significantly improved model performance.
 - Visualizations provided insights into the data distribution and model predictions.
 
-## Future Work
 
-- Implement cross-validation to ensure model robustness.
-- Explore advanced regression techniques like Gradient Boosting or XGBoost.
-- Deploy the model using a web framework like Flask or Django for real-time predictions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
